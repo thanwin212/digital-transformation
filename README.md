@@ -1,6 +1,6 @@
 # digital-transformation
 
-# Project: Digital Transformation (2018 - 2019)
+# Project: Digital Transformation (2019 - 2020)
 
 ## Overview
 Led the functional teams to support Proximity Finance’s digital transformation journey. From the functional perspective, the business required a person who has in-depth knowledge of the entire business, financial industry, regulatory frameworks, business processes in order to support for this project to successfully deliver. I took over the role of acting as a functional lead to support for the project.
