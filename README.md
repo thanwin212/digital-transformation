@@ -5,6 +5,10 @@
 ## Overview
 Led the functional teams to support Proximity Finance’s digital transformation journey. From the functional perspective, the business required a person who has in-depth knowledge of the entire business, financial industry, regulatory frameworks, business processes in order to support for this project to successfully deliver. I took over the role of acting as a functional lead to support for the project.
 
+Project Length: 
+Start Date: March 2019 
+End Date: July 2020
+
 ## Key Achievements
 - **Functional Features**: Collected requirements from business teams to state them clearly in the BRD document, which was later used to define features to design in the core banking system (Musoni).
 - **System Versatility**: Closely worked together with functional teams and the solution provider team to ensure the features are designed as requested and overviewed the execution of a 360-degree test, which was done by chosen functional team members.
